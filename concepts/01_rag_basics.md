@@ -26,12 +26,11 @@ When you ask, "What is our policy on remote work?", the system springs into acti
 - **The Context**: It hands those specific "remote work" chunks to the LLM.
 - **The Answer**: The LLM reads the chunks and says: "Based on the Employee Handbook, you can work remotely two days a week."
 
-##RAG in the Real World
+## RAG in the Real World
 
-Use Case,How RAG Helps
-Medical Assistant,An AI that reads the latest 2026 clinical trials to help doctors diagnose rare diseases.
-Customer Support,A bot that knows your specific order history and the exact manual for the toaster you bought.
-Financial Analysis,A tool that scans thousands of pages of quarterly earnings reports to find specific market trends.
+- **Medical Assistant**: An AI that reads the latest 2026 clinical trials to help doctors diagnose rare diseases.
+- **Customer Support**: A bot that knows your specific order history and the exact manual for the toaster you bought.
+- **Financial Analysis**: A tool that scans thousands of pages of quarterly earnings reports to find specific market trends.
 
 **The Big Takeaway**:
 RAG separates **Reasoning** from **Knowledge**. The LLM provides the "brain" (the ability to speak and logic), while the Vector Database provides the "memory" (the facts). This keeps the AI smart, safe, and always up-to-date.

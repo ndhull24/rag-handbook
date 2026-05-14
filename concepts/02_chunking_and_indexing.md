@@ -1,6 +1,6 @@
-## Chunking and indexing
+# Chunking and indexing
 
-# Why chunking matters?
+## Why chunking matters?
 
 Most of the source documents (PDFs, web pages, reports) are too long and heavy to send directly to an LLM.
 You can send them but:
@@ -12,7 +12,7 @@ Chunking means splitting the documents into smaller pieces that are:
 - Big enough to preserve the context 
 - Small enough to fit into the prompts and be retrieved efficiently
 
-# Chunking is an important step.
+## Chunking is an important step.
 
 Bad chunking leads to:
 - Lost context (chunks too small are disconnected and too big are not able to manage the context) also called context stuffing. 

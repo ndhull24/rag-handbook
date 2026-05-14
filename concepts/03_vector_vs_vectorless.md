@@ -15,6 +15,7 @@ Think of this like a **computerized filing cabinet**. It doesn't care about "vib
     - **Best for**: Searching through legal documents, technical manuals with part numbers, or when you need to know exactly why a result was picked.
     
 **⚔️ At a Glance: The Comparison**
+
 ![alt text](image.png)
 
 **🏆 Which one should you choose?**

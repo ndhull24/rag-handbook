@@ -2,6 +2,8 @@
 
 A practical handbook where I document everything I know about Retrieval-Augmented Generation (RAG): concepts, architectures, and patterns, with examples oriented toward real-world analytics and finance use cases.
 
+Check this out- https://raghandbook-dtla9uep.manus.space
+
 ## Why this repo exists
 
 - To organize my RAG knowledge in a single place instead of scattered notes.

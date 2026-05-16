@@ -1,4 +1,4 @@
-Contributing to RAG Handbook
+**Contributing to RAG Handbook**
 Thanks for your interest in improving the RAG Handbook! This project is a living notebook of RAG concepts, architectures, and trade‑offs, with an emphasis on real‑world analytics and finance use cases. Contributions that make the ideas clearer, more accurate, or more practical are especially welcome.
 
 How to contribute

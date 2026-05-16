@@ -3,7 +3,7 @@
 A practical handbook where I document everything I know about Retrieval-Augmented Generation (RAG): concepts, architectures, and design trade‑offs, with an emphasis on real-world analytics and finance use cases.
 
 👉 Live notebook-style version of this handbook:  
-[https://raghandbook-dtla9uep.manus.space](https://raghandbook-dtla9uep.manus.space)
+[https://raghandbook-jdfd4qp4.manus.space](https://raghandbook-jdfd4qp4.manus.space)
 
 ---
 
